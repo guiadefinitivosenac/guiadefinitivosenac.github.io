@@ -20,12 +20,14 @@ body {
 }
 
 .teste{
-	background-color: black;
+	background-color: white;
+	opacity: 0.5;
 	
 }
 
 .texto{
-	color: white;
+	color: black;
+	font-weight: bold;
 }
 
 .logo {
